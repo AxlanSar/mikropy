@@ -42,3 +42,8 @@ Email: axlansar@duck.com
 ![mikropy](https://github.com/AxlanSar/mikropy/blob/main/mk2.png)
 ![mikropy](https://github.com/AxlanSar/mikropy/blob/main/mk3.png)
 ![mikropy](https://github.com/AxlanSar/mikropy/blob/main/mk4.png)
+
+## Video de uso
+
+https://drive.google.com/drive/u/0/folders/1gZzbmslma_df8WAeyr0OXWa4GzNvPhjf
+
